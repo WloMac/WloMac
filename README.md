@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WloMac
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5, CSS, JS
+- 🌱 I’m currently learning HTML5, CSS, JS, REACT.JS
 - 💞️ I’m looking to collaborate on interactive Web applications
 - 📫 How to reach me wmac.webdev@gmail.com
 
